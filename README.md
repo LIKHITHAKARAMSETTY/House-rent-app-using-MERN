@@ -1,5 +1,3 @@
-house renting app with realtime chat. [click here to see the demo video](https://youtu.be/SlHoExFpXx8)
-
 ## To Build And Run the app
 
 @project root directory
